@@ -1,4 +1,5 @@
 body {
+    font-family:'Sans-Serif';
     margin: 60px auto;
     width: 70%;
 }
@@ -22,6 +23,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
+    color: maroon;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
